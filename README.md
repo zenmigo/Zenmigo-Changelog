@@ -19,6 +19,26 @@ straightforward as possible.
 ## [1.1] - IN DEVELOPMENT, CHECK "WHATS NEW FOR UPCOMING FEATURES"
  
 ### Added
+
+Brand new QuickDex UI!
+
+Adaptive Mobile Landing Page for QuickDex
+   *This means fixing the Sign in, Sign up, and Demos that are cut off
+
+
+Adaptive QuickDex Main App
+  *This means adaptive assets such as logos, icons, folders, messages, and ads for mobile devices
+  
+Apps will receive folder functionality
+
+Files will receive folder functionality
+
+Google Drive, Dropbox API Support for Importing Files on to the QuickDex platform!
+
+Changed Pro Price from 6.99 to 7.99 
+
+Other Minor UI/UX Improvements
+
  
  
 ## [1] - 2022-8-16
