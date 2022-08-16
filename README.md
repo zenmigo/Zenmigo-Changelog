@@ -1,9 +1,6 @@
 # QuickDex Change Log
 All notable changes to this project will be documented in this file.
  
-The format is based on [Keep a Changelog](http://keepachangelog.com/)
-and this project adheres to [Semantic Versioning](http://semver.org/).
- 
 ## [Unreleased] - yyyy-mm-dd
  
 Here we write upgrading notes for brands. It's a team effort to make them as
@@ -19,22 +16,10 @@ straightforward as possible.
  
 ### Fixed
  
-## [1.2.4] - 2017-03-15
-  
-Here we would have the update steps for 1.2.4 for people to follow.
+## [1.1] - IN DEVELOPMENT, CHECK "WHATS NEW FOR UPCOMING FEATURES"
  
 ### Added
  
-### Changed
-  
-- [PROJECTNAME-ZZZZ](http://tickets.projectname.com/browse/PROJECTNAME-ZZZZ)
-  PATCH Drupal.org is now used for composer.
- 
-### Fixed
- 
-- [PROJECTNAME-TTTT](http://tickets.projectname.com/browse/PROJECTNAME-TTTT)
-  PATCH Add logic to runsheet teaser delete to delete corresponding
-  schedule cards.
  
 ## [1] - 2022-8-16
  
@@ -42,9 +27,15 @@ First iteration of QuickDex
 
 ### Added
 
-Cloud Storage - Basic = 5GB - PRO = 30GB
+Cloud Storage - Basic = 5GB 
+Cloud Storage - PRO = 30GB
+
+File previewing: MP4, jpg, png, mov
+
+New Apps Avaliable: QuickDex Docs, QuickDex Sheets, QuickDex Organizer, QuickDex Games, Judge0 IDE, MiniPaint
+
+QuickDex Docs: Pro users can download in .Docx, .RTF + .TXT
+
+Targeted Advertisement - Basic Users only
  
-- [PROJECTNAME-UUUU](http://tickets.projectname.com/browse/PROJECTNAME-UUUU)
-  MINOR Fix module foo tests
-- [PROJECTNAME-RRRR](http://tickets.projectname.com/browse/PROJECTNAME-RRRR)
-  MAJOR Module foo's timeline uses the browser timezone for date resolution 
+
