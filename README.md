@@ -23,11 +23,11 @@ straightforward as possible.
 Brand new QuickDex UI!
 
 Adaptive Mobile Landing Page for QuickDex
-   *This means fixing the Sign in, Sign up, and Demos that are cut off
+   * This means fixing the Sign in, Sign up, and Demos that are cut off
 
 
 Adaptive QuickDex Main App
-  *This means adaptive assets such as logos, icons, folders, messages, and ads for mobile devices
+  * This means adaptive assets such as logos, icons, folders, messages, and ads for mobile devices
   
 Apps will receive folder functionality
 
