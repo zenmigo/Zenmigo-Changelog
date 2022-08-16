@@ -36,13 +36,13 @@ Here we would have the update steps for 1.2.4 for people to follow.
   PATCH Add logic to runsheet teaser delete to delete corresponding
   schedule cards.
  
-## [1.2.3] - 2017-03-14
+## [1] - 2022-8-16
  
+First iteration of QuickDex
+
 ### Added
-   
-### Changed
- 
-### Fixed
+
+Cloud Storage - Basic = 5GB - PRO = 30GB
  
 - [PROJECTNAME-UUUU](http://tickets.projectname.com/browse/PROJECTNAME-UUUU)
   MINOR Fix module foo tests
