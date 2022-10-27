@@ -1,21 +1,29 @@
+# QuickDex UI Drafting Process
+
+It has been an incredible year of constant development. QuickDex was started as "WebSwift" and just a drawing done out of pure frustration and boredom... Now, my team and I have built incredible software recognizable by thousands (and growing...):
+
+## First Step - Pencil Drawing
+
+![UI for Developer](https://user-images.githubusercontent.com/50426742/194202647-e2fdb6c3-632a-4074-8db9-5a39da3ed909.jpg)
+
+## Second Step - Low Fidelity Mockup
+
+![UI Rough Copy](https://user-images.githubusercontent.com/50426742/194202756-0439ddd9-03b8-41ff-9435-b9dadff891ce.PNG)
+
+## Third Step - Building the First Prototype
+
+![QuickDex Prototype](https://user-images.githubusercontent.com/50426742/194204163-f7469045-d3ba-4061-b3bb-9ddcff8f366f.png)
+![QuickDex Dark Prototype](https://user-images.githubusercontent.com/50426742/194204176-59c9be88-1c96-4fad-8290-459a5137a5b8.png)
+
+
+## Fourth Step - Integrating and Building a Functional Platform 
+
+![LatestUI](https://user-images.githubusercontent.com/50426742/198410805-c91adb19-c0ab-4aef-8e46-9e1131c39b16.jpg)
+
+
 # QuickDex Change Log
 All notable changes to this project will be documented in this file.
- 
-## [Unreleased] - yyyy-mm-dd
- 
-Here we write upgrading notes for brands. It's a team effort to make them as
-straightforward as possible.
- 
-### Added
-- [PROJECTNAME-XXXX](http://tickets.projectname.com/browse/PROJECTNAME-XXXX)
-  MINOR Ticket title goes here.
-- [PROJECTNAME-YYYY](http://tickets.projectname.com/browse/PROJECTNAME-YYYY)
-  PATCH Ticket title goes here.
- 
-### Changed
- 
-### Fixed
- 
+  
 ## [1.1] - IN DEVELOPMENT, CHECK "WHATS NEW FOR UPCOMING FEATURES"
  
 ### Added
@@ -57,5 +65,3 @@ New Apps Avaliable: QuickDex Docs, QuickDex Sheets, QuickDex Organizer, QuickDex
 QuickDex Docs: Pro users can download in .Docx, .RTF + .TXT
 
 Targeted Advertisement - Basic Users only
- 
-
