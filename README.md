@@ -1,6 +1,6 @@
 # Zenmigo UI Drafting Process
 
-It has been an incredible year of constant development. Zenmigo was started as "WebSwift" and just a drawing done out of pure frustration and boredom... Now, my team and I have built incredible software recognizable by thousands (and growing...):
+It has been an incredible year of constant development. Zenmigo was started as "WebSwift"/"QuickDex" and was just a drawing done out of pure frustration and boredom... Now, my team and I have built incredible software recognizable by thousands (and growing...):
 
 ## First Step - Pencil Drawing
 
