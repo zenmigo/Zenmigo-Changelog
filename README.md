@@ -1,6 +1,6 @@
 # Zenmigo UI Drafting Process
 
- ![Zenmigo](https://github.com/zenmigo/Zenmigo-Changelog/assets/50426742/9dce7b6a-f894-4345-8b12-0ed52817bf53)****
+ ![Zenmigo](https://github.com/zenmigo/Zenmigo-Changelog/assets/50426742/9dce7b6a-f894-4345-8b12-0ed52817bf53)
 
 It has been an incredible year of constant development. Zenmigo was started as "WebSwift"/"QuickDex" and was just a drawing done out of pure frustration and boredom... Now, my team and I have built incredible software recognizable by thousands (and growing...):
 
