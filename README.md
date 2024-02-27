@@ -22,6 +22,11 @@ It has been an incredible year of constant development. Zenmigo was started as "
 
 ![LatestUI](https://user-images.githubusercontent.com/50426742/198410805-c91adb19-c0ab-4aef-8e46-9e1131c39b16.jpg)
 
+## Fifth Step - Finalizing UI, Adding Backend to Dropbox and Drive, User  Verification (Redgar Tech is my official Parent Tech Org!):
+
+![image](https://github.com/zenmigo/Zenmigo-Changelog/assets/50426742/9e876804-bb33-4cde-9591-f08649b03905)
+![image](https://github.com/zenmigo/Zenmigo-Changelog/assets/50426742/74a18c25-3ba3-4b6d-9774-180669fce9bc)
+
 
 # Zenmigo Change Log
 All notable changes to this project will be documented in this file.
