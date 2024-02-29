@@ -50,7 +50,7 @@ Files will receive folder functionality
 
 Google Drive, Dropbox API Support for Importing Files on to the Zenmigo platform!
 
-Changed Pro Price from 6.99 to 7.99 
+Changed Pro Price from 6.99 to 5.99
 
 Other Minor UI/UX Improvements
 
