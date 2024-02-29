@@ -56,7 +56,7 @@ Other Minor UI/UX Improvements
 
  
  
-## [1] - 2022-8-16
+## [1] - 2023-8-16
  
 First iteration of Zenmigo
 
